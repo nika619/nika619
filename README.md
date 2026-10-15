@@ -29,7 +29,7 @@ Policy-gated AI revenue recovery engine for Razorpay. Every automated action pas
 </td>
 <td width="50%" valign="top">
 
-### [Career PathFinder](https://github.com/nika619/Career-pathfinder-nika619)
+### [Career PathFinder](https://github.com/nika619/Career-pathfinder-nika619) · [Live ↗](https://career-pathfinder-nika619.onrender.com/)
 Grounded, explainable AI engine that builds an adaptive learning path and shows *why* each step is there. Tested and CI-checked on every push.<br>
 `FastAPI` `scikit-learn` `Gemini` `GitHub Actions`<br>
 <sub>HCL Amplified National Hackathon</sub>
