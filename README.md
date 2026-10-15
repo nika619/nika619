@@ -25,6 +25,14 @@ I turn ideas into working products, fast. Give me a problem and a deadline and y
 </tr>
 </table>
 
+## About me
+
+- 🎓 Final-year B.Tech CSE at **BBDU Lucknow** (graduating May 2027)
+- 🏆 **Winner, LovHack Season 2** with [PARITY](https://parity-rosy.vercel.app), a 5-round AI voice debate arena
+- 🥈 **Rank #6 national finalist, AMPlified Season 1** with [Career PathFinder](https://github.com/nika619/Career-pathfinder-nika619)
+- 🔭 Building AI products, Rive/SVG motion and 3D web experiences, and taking freelance work on [Contra](https://contra.com/mayank_tiwari_a4vkcjsh)
+- 💬 Ask me about LLM features you can trust in production, scroll-driven 3D sites, or Rive state machines
+
 ## What I can build for you
 
 | | | |
