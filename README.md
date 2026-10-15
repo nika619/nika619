@@ -21,58 +21,28 @@
 
 <img src="assets/motion/terminal.svg" alt="Terminal: whoami, Mayank Tiwari, AI full-stack developer and motion designer in Lucknow. Now building client work on Contra, Rive and SVG motion, AI agents. Hire at contra.com/mayank_tiwari_a4vkcjsh." width="100%">
 
+## Featured work
+
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://parity-rosy.vercel.app"><img src="assets/motion/card-parity.svg" alt="PARITY project card" width="100%"></a><br><sub><b>PARITY</b> · <a href="https://parity-rosy.vercel.app">Live demo ↗</a></sub></td>
+<td width="50%" align="center"><a href="https://career-pathfinder-nika619.onrender.com/"><img src="assets/motion/card-career-pathfinder.svg" alt="Career PathFinder project card" width="100%"></a><br><sub><b>Career PathFinder</b> · <a href="https://github.com/nika619/Career-pathfinder-nika619">Code</a> · <a href="https://career-pathfinder-nika619.onrender.com/">Live ↗</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/nika619/BackStop-"><img src="assets/motion/card-backstop.svg" alt="BackStop project card" width="100%"></a><br><sub><b>BackStop</b> · <a href="https://github.com/nika619/BackStop-">Code</a></sub></td>
+<td width="50%" align="center"><a href="https://atelier-time-sync.lovable.app"><img src="assets/motion/card-aevra.svg" alt="AÉVRA project card" width="100%"></a><br><sub><b>AÉVRA</b> · <a href="https://github.com/nika619/aevra-atelier">Code</a> · <a href="https://atelier-time-sync.lovable.app">Live ↗</a></sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://snap-app-491619.uc.r.appspot.com"><img src="assets/motion/card-snap.svg" alt="S.N.A.P. project card" width="100%"></a><br><sub><b>S.N.A.P.</b> · <a href="https://github.com/nika619/snap-app">Code</a> · <a href="https://snap-app-491619.uc.r.appspot.com">Live ↗</a></sub></td>
+<td width="50%" align="center"><a href="https://github.com/nika619/ecoops"><img src="assets/motion/card-ecoops.svg" alt="ECO-OPS project card" width="100%"></a><br><sub><b>ECO-OPS</b> · <a href="https://github.com/nika619/ecoops">Code</a></sub></td>
+</tr>
+</table>
+
 ## What I can build for you
 
 | | | |
 |---|---|---|
 | **AI web apps & MVPs**<br>Tools that do real work with LLMs: intake forms, dashboards, copilots, internal tools. React, TypeScript, Python, FastAPI.<br>[Start a project →](https://contra.com/s/eg6e7bXR-ai-powered-web-app-or-mvp-designed-and-shipped) | **Cinematic 3D websites**<br>Scroll-driven landing pages with Three.js, GSAP and Lenis that still load fast and work on phones.<br>[Start a project →](https://contra.com/s/FFe2WvmO-cinematic-3-d-scroll-website-or-landing-page-threejs) | **Rive & SVG motion**<br>Interactive UI, game HUDs, animated ads and editable templates that weigh kilobytes, not megabytes.<br>[Start a project →](https://contra.com/s/B7YOBeFL-rive-or-svg-animation-for-your-app-site-or-ad) |
-
-## Featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://parity-rosy.vercel.app"><img src="assets/projects/parity.jpg" alt="PARITY screenshot" width="100%"></a>
-<p><a href="https://parity-rosy.vercel.app"><b>PARITY</b></a><br><sub>🏆 Winner, LovHack Season 2</sub></p>
-<p>Enter any opinion, pick a side, and argue it out with an AI across 5 voiced rounds before a judge rules. It steelmans the side you oppose.</p>
-<p><code>Gemini Flash</code> <code>Web Speech API</code> <code>WebSockets</code></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://career-pathfinder-nika619.onrender.com/"><img src="assets/projects/career-pathfinder.jpg" alt="Career PathFinder screenshot" width="100%"></a>
-<p><a href="https://github.com/nika619/Career-pathfinder-nika619"><b>Career PathFinder</b></a> · <a href="https://career-pathfinder-nika619.onrender.com/">Live ↗</a><br><sub>🥈 Rank #6 national finalist, AMPlified Season 1</sub></p>
-<p>Explainable AI engine that turns a career goal into an adaptive, prerequisite-ordered learning path and shows why each step is there.</p>
-<p><code>FastAPI</code> <code>scikit-learn</code> <code>Gemini</code> <code>CI</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/nika619/BackStop-"><img src="assets/projects/backstop.jpg" alt="BackStop screenshot" width="100%"></a>
-<p><a href="https://github.com/nika619/BackStop-"><b>BackStop</b></a><br><sub>Razorpay AI Buildathon</sub></p>
-<p>Recovers failed Razorpay payments with AI, but every action passes a deterministic policy gate and lands in a SHA-256 hash-chained audit log.</p>
-<p><code>FastAPI</code> <code>React 19</code> <code>pytest</code> <code>Razorpay</code></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://atelier-time-sync.lovable.app"><img src="assets/projects/aevra.jpg" alt="AÉVRA screenshot" width="100%"></a>
-<p><a href="https://github.com/nika619/aevra-atelier"><b>AÉVRA</b></a> · <a href="https://atelier-time-sync.lovable.app">Live ↗</a><br><sub>Lovable AI Hackathon</sub></p>
-<p>Cinematic site for a luxury watch-restoration atelier. A smart intake turns "can I book?" into "you're booked", with an owner dashboard behind it.</p>
-<p><code>React</code> <code>GSAP</code> <code>React Three Fiber</code> <code>Lenis</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://snap-app-491619.uc.r.appspot.com"><img src="assets/projects/snap.jpg" alt="S.N.A.P. screenshot" width="100%"></a>
-<p><a href="https://github.com/nika619/snap-app"><b>S.N.A.P.</b></a> · <a href="https://snap-app-491619.uc.r.appspot.com">Live ↗</a></p>
-<p>Paste a messy meeting transcript and get decisions, owners and action items in seconds.</p>
-<p><code>React</code> <code>Three.js</code> <code>Gemini 2.5 Flash</code> <code>Google Cloud</code></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/nika619/ecoops"><img src="assets/projects/ecoops.jpg" alt="ECO-OPS screenshot" width="100%"></a>
-<p><a href="https://github.com/nika619/ecoops"><b>ECO-OPS</b></a><br><sub>GitLab AI Hackathon</sub></p>
-<p>Cuts wasted CI/CD compute by skipping pipeline jobs that add nothing for a given commit, and reports the CO₂ it avoided.</p>
-<p><code>Python</code> <code>GitLab CI</code> <code>Gemini</code> <code>pytest</code></p>
-</td>
-</tr>
-</table>
 
 ## More builds
 
