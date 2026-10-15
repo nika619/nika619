@@ -44,54 +44,44 @@ I turn ideas into working products, fast. Give me a problem and a deadline and y
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [BackStop](https://github.com/nika619/BackStop-)
-Policy-gated AI revenue recovery engine for Razorpay. Every automated action passes a deterministic policy check and lands in a SHA-256 hash-chained audit log, built around RBI e-mandate rules.<br>
-`FastAPI` `React 19` `Tailwind` `pytest`<br>
-<sub>Razorpay AI Buildathon</sub>
-
+<a href="https://parity-rosy.vercel.app"><img src="assets/projects/parity.jpg" alt="PARITY screenshot" width="100%"></a>
+<p><a href="https://parity-rosy.vercel.app"><b>PARITY</b></a><br><sub>🏆 Winner, LovHack Season 2</sub></p>
+<p>Enter any opinion, pick a side, and argue it out with an AI across 5 voiced rounds before a judge rules. It steelmans the side you oppose.</p>
+<p><code>Gemini Flash</code> <code>Web Speech API</code> <code>WebSockets</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [Career PathFinder](https://github.com/nika619/Career-pathfinder-nika619) · [Live ↗](https://career-pathfinder-nika619.onrender.com/)
-Grounded, explainable AI engine that builds an adaptive learning path and shows *why* each step is there. Tested and CI-checked on every push.<br>
-`FastAPI` `scikit-learn` `Gemini` `GitHub Actions`<br>
-<sub>HCL Amplified National Hackathon</sub>
-
+<a href="https://career-pathfinder-nika619.onrender.com/"><img src="assets/projects/career-pathfinder.jpg" alt="Career PathFinder screenshot" width="100%"></a>
+<p><a href="https://github.com/nika619/Career-pathfinder-nika619"><b>Career PathFinder</b></a> · <a href="https://career-pathfinder-nika619.onrender.com/">Live ↗</a><br><sub>🥈 Rank #6 national finalist, AMPlified Season 1</sub></p>
+<p>Explainable AI engine that turns a career goal into an adaptive, prerequisite-ordered learning path and shows why each step is there.</p>
+<p><code>FastAPI</code> <code>scikit-learn</code> <code>Gemini</code> <code>CI</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### [S.N.A.P.](https://github.com/nika619/snap-app) · [Live ↗](https://snap-app-491619.uc.r.appspot.com)
-Paste a messy meeting transcript, get decisions, owners and action items in seconds.<br>
-`React` `Three.js` `Gemini 2.5 Flash` `Google Cloud`
-
+<a href="https://github.com/nika619/BackStop-"><img src="assets/projects/backstop.jpg" alt="BackStop screenshot" width="100%"></a>
+<p><a href="https://github.com/nika619/BackStop-"><b>BackStop</b></a><br><sub>Razorpay AI Buildathon</sub></p>
+<p>Recovers failed Razorpay payments with AI, but every action passes a deterministic policy gate and lands in a SHA-256 hash-chained audit log.</p>
+<p><code>FastAPI</code> <code>React 19</code> <code>pytest</code> <code>Razorpay</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [AÉVRA](https://github.com/nika619/aevra-atelier) · [Live ↗](https://atelier-time-sync.lovable.app)
-Cinematic site for a luxury watch-restoration atelier. A smart intake turns "can I book?" into "you're booked", with an owner dashboard behind it.<br>
-`React` `GSAP` `React Three Fiber` `Lenis`<br>
-<sub>Lovable AI Hackathon</sub>
-
+<a href="https://atelier-time-sync.lovable.app"><img src="assets/projects/aevra.jpg" alt="AÉVRA screenshot" width="100%"></a>
+<p><a href="https://github.com/nika619/aevra-atelier"><b>AÉVRA</b></a> · <a href="https://atelier-time-sync.lovable.app">Live ↗</a><br><sub>Lovable AI Hackathon</sub></p>
+<p>Cinematic site for a luxury watch-restoration atelier. A smart intake turns "can I book?" into "you're booked", with an owner dashboard behind it.</p>
+<p><code>React</code> <code>GSAP</code> <code>React Three Fiber</code> <code>Lenis</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### [Evident](https://github.com/nika619/Evident--the-ultimate-help-)
-Career intelligence grounded in your actual code: it reads what you built and turns it into resume claims you can prove.<br>
-`React Native` `TypeScript` `Zustand` `RevenueCat`<br>
-<sub>RevenueCat Shipathon 2026</sub>
-
+<a href="https://snap-app-491619.uc.r.appspot.com"><img src="assets/projects/snap.jpg" alt="S.N.A.P. screenshot" width="100%"></a>
+<p><a href="https://github.com/nika619/snap-app"><b>S.N.A.P.</b></a> · <a href="https://snap-app-491619.uc.r.appspot.com">Live ↗</a></p>
+<p>Paste a messy meeting transcript and get decisions, owners and action items in seconds.</p>
+<p><code>React</code> <code>Three.js</code> <code>Gemini 2.5 Flash</code> <code>Google Cloud</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [SepsisGuard AI](https://github.com/nika619/SepsisGuard-AI-Real-Time-Sepsis-Intelligence-MCP)
-An MCP server that gives AI assistants real-time sepsis risk intelligence from vitals, labs and nursing notes.<br>
-`Python` `Model Context Protocol` `Clinical scoring`
-
+<a href="https://github.com/nika619/ecoops"><img src="assets/projects/ecoops.jpg" alt="ECO-OPS screenshot" width="100%"></a>
+<p><a href="https://github.com/nika619/ecoops"><b>ECO-OPS</b></a><br><sub>GitLab AI Hackathon</sub></p>
+<p>Cuts wasted CI/CD compute by skipping pipeline jobs that add nothing for a given commit, and reports the CO₂ it avoided.</p>
+<p><code>Python</code> <code>GitLab CI</code> <code>Gemini</code> <code>pytest</code></p>
 </td>
 </tr>
 </table>
