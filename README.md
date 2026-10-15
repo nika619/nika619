@@ -16,6 +16,15 @@
 
 I turn ideas into working products, fast. Give me a problem and a deadline and you get a deployed app, clean source code and an interface people remember. Most of what's below was designed, built and shipped in a single hackathon weekend.
 
+<table align="center">
+<tr>
+<td align="center" width="25%"><h3>🏆 Winner</h3><sub>LovHack Season 2<br>with PARITY</sub></td>
+<td align="center" width="25%"><h3>#6 National</h3><sub>Finalist, AMPlified S1<br>with Career PathFinder</sub></td>
+<td align="center" width="25%"><h3>14+ shipped</h3><sub>AI products, games<br>and 3D sites</sub></td>
+<td align="center" width="25%"><h3>CI-tested</h3><sub>Flagship repos build<br>green on every push</sub></td>
+</tr>
+</table>
+
 ## What I can build for you
 
 | | | |
