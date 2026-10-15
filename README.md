@@ -74,13 +74,7 @@
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,threejs,tailwind,vite,nodejs,express&theme=dark" alt="Frontend and Node stack"><br>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sklearn,gcp,vercel,netlify,githubactions,git&theme=dark" alt="Python, cloud and tooling">
-</p>
-
-Motion and 3D: **GSAP · ScrollTrigger · Lenis · React Three Fiber · Rive · SVGator · WGSL shaders**<br>
-AI: **Gemini · Claude · MCP servers · Ollama · scikit-learn**
+<img src="assets/motion/marquee.svg" alt="Stack: React, TypeScript, Next.js, Three.js, React Three Fiber, GSAP, Lenis, Tailwind, Vite, Rive, SVGator, WGSL, Python, FastAPI, Flask, scikit-learn, Gemini, Claude, MCP servers, Ollama, Node.js, GCP Cloud Run, Vercel, GitHub Actions." width="100%">
 
 ## How I work
 
