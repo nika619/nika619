@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Terminal: whoami, Mayank Tiwari, AI full-stack developer and motion designer in Lucknow. Now building client work on Contra, Rive and SVG motion, AI agents. Hire me at contra.com/mayank_tiwari_a4vkcjsh.">
+<title>Terminal: whoami, Mayank Tiwari, AI full-stack developer and motion designer in Lucknow. Now building client work on Contra, Rive and SVG motion, AI agents. Hire me at contra.com/mayank_tiwari_a4vkcjsh.</title>
+<style>
+
+.cmd { font: 600 18px 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; fill: #F4EDE2; }
+.out { font: 400 17px 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; fill: #B9AE9F; }
+.ok { font: 600 17px 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; fill: #E8A33D; }
+.bar { font: 500 13px 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; fill: #8C8173; text-anchor: middle; }
+.caret { animation: blink 1.05s steps(1) infinite; }
+@keyframes wipe { to { transform: scaleX(0); } }
+.scan { animation: scan 7s linear infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+@keyframes scan { from { transform: translateY(46px); } to { transform: translateY(300px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; }
+}
+</style>
+
+<defs><clipPath id="r"><rect width="1200" height="300" rx="18"/></clipPath></defs>
+<g clip-path="url(#r)">
+  <rect width="1200" height="300" fill="#16130F"/>
+  <rect width="1200" height="46" fill="#1F1A15"/>
+  <circle cx="30" cy="23" r="7" fill="#E5675B"/><circle cx="54" cy="23" r="7" fill="#E8B04B"/><circle cx="78" cy="23" r="7" fill="#7BC47F"/>
+  <text x="600" y="29" class="bar">nika619 — zsh — 120×24</text>
+  <text x="44" y="104" class="cmd">$ whoami</text><rect x="40" y="82" width="91.6" height="30" fill="#16130F" style="transform-box: fill-box; transform-origin: right; animation: wipe 0.5s steps(8, end) 0.6s forwards"/><text x="44" y="134" class="out">mayank tiwari · ai full-stack developer &amp; motion designer · lucknow, in</text><rect x="40" y="112" width="734.1999999999999" height="30" fill="#16130F" style="transform-box: fill-box; transform-origin: right; animation: wipe 0.852s steps(12, end) 1.45s forwards"/><text x="44" y="164" class="cmd">$ now --building</text><rect x="40" y="142" width="173.2" height="30" fill="#16130F" style="transform-box: fill-box; transform-origin: right; animation: wipe 0.72s steps(16, end) 2.902s forwards"/><text x="44" y="194" class="out">client work on contra · rive + svg motion · ai agents that log their reasoning</text><rect x="40" y="172" width="805.5999999999999" height="30" fill="#16130F" style="transform-box: fill-box; transform-origin: right; animation: wipe 0.936s steps(12, end) 3.972s forwards"/><text x="44" y="224" class="cmd">$ hire --me</text><rect x="40" y="202" width="122.19999999999999" height="30" fill="#16130F" style="transform-box: fill-box; transform-origin: right; animation: wipe 0.5s steps(11, end) 5.508s forwards"/><text x="44" y="254" class="ok">→ contra.com/mayank_tiwari_a4vkcjsh   open for new projects ✓</text><rect x="40" y="232" width="632.1999999999999" height="30" fill="#16130F" style="transform-box: fill-box; transform-origin: right; animation: wipe 0.732s steps(12, end) 6.358s forwards"/>
+  <rect x="44" y="268" width="11" height="20" fill="#E8A33D" class="caret"/>
+  <rect y="0" width="1200" height="3" fill="#E8A33D" opacity=".08" class="scan"/>
+</g>
+<rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#2E271F" stroke-width="2"/>
+</svg>
