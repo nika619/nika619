@@ -102,6 +102,7 @@ AI: **Gemini · Claude · MCP servers · Ollama · scikit-learn**
 - **Ship first, then polish.** You see a working build early, not a slide deck.
 - **Grounded AI.** I design features so the model's output can be checked, logged and explained.
 - **Motion with a job.** Animation has to guide attention or explain something, or it doesn't go in.
+- **Green builds.** My main projects build and test in GitHub Actions on every push.
 - **Clean handover.** Deployed app, readable source, a README like the ones above, and a short walkthrough.
 
 ## Let's build something
