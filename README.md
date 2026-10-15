@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Mayank Tiwari, AI full-stack developer and motion designer" width="100%">
-</p>
+<a href="https://portfolio-mayankk1720.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header.svg" alt="Mayank Tiwari, AI full-stack developer and motion designer. LovHack S2 winner, AMPlified national finalist." width="100%">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://contra.com/mayank_tiwari_a4vkcjsh"><img src="https://img.shields.io/badge/Hire_me-Contra-E8A33D?style=for-the-badge" alt="Hire me on Contra"></a>
