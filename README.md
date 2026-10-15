@@ -94,8 +94,6 @@
 - **Green builds.** My main projects build and test in GitHub Actions on every push.
 - **Clean handover.** Deployed app, readable source, a README like the ones above, and a short walkthrough.
 
-## Let's build something
+<a href="https://contra.com/mayank_tiwari_a4vkcjsh"><img src="assets/motion/footer.svg" alt="Let's build something people remember. Message me on Contra." width="100%"></a>
 
-Have an idea, a deadline, or a product that needs to feel alive? **[Message me on Contra](https://contra.com/mayank_tiwari_a4vkcjsh)** and I'll reply with a plan and timeline.
-
-<p align="center"><sub>Lucknow, India · working with teams worldwide</sub></p>
+<p align="center"><sub>Have an idea, a deadline, or a product that needs to feel alive? <a href="https://contra.com/mayank_tiwari_a4vkcjsh"><b>Message me on Contra</b></a> · Lucknow, India · working with teams worldwide</sub></p>
