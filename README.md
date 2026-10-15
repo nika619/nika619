@@ -11,6 +11,8 @@
 
 <img src="assets/motion/proof.svg" alt="Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push." width="100%">
 
+<img src="assets/motion/divider.svg" alt="" width="100%">
+
 ## About me
 
 - 🎓 Final-year B.Tech CSE at **BBDU Lucknow** (graduating May 2027)
@@ -20,6 +22,8 @@
 - 💬 Ask me about LLM features you can trust in production, scroll-driven 3D sites, or Rive state machines
 
 <img src="assets/motion/terminal.svg" alt="Terminal: whoami, Mayank Tiwari, AI full-stack developer and motion designer in Lucknow. Now building client work on Contra, Rive and SVG motion, AI agents. Hire at contra.com/mayank_tiwari_a4vkcjsh." width="100%">
+
+<img src="assets/motion/divider.svg" alt="" width="100%">
 
 ## Featured work
 
@@ -37,6 +41,8 @@
 <td width="50%" align="center"><a href="https://github.com/nika619/ecoops"><img src="assets/motion/card-ecoops.svg" alt="ECO-OPS project card" width="100%"></a><br><sub><b>ECO-OPS</b> · <a href="https://github.com/nika619/ecoops">Code</a></sub></td>
 </tr>
 </table>
+
+<img src="assets/motion/divider.svg" alt="" width="100%">
 
 ## What I can build for you
 
@@ -65,6 +71,8 @@
 
 </details>
 
+<img src="assets/motion/divider.svg" alt="" width="100%">
+
 ## GitHub activity
 
 <p align="center">
@@ -75,6 +83,8 @@
 ## Stack
 
 <img src="assets/motion/marquee.svg" alt="Stack: React, TypeScript, Next.js, Three.js, React Three Fiber, GSAP, Lenis, Tailwind, Vite, Rive, SVGator, WGSL, Python, FastAPI, Flask, scikit-learn, Gemini, Claude, MCP servers, Ollama, Node.js, GCP Cloud Run, Vercel, GitHub Actions." width="100%">
+
+<img src="assets/motion/divider.svg" alt="" width="100%">
 
 ## How I work
 
