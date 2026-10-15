@@ -107,6 +107,13 @@ I turn ideas into working products, fast. Give me a problem and a deadline and y
 
 </details>
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nika619&background=16130F&ring=E8A33D&fire=E8A33D&currStreakNum=F4EDE2&sideNums=F4EDE2&currStreakLabel=E8A33D&sideLabels=B9AE9F&dates=8C8173&stroke=2A241D&hide_border=true" alt="GitHub contribution streak for nika619" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nika619&layout=compact&hide_border=true&bg_color=16130F&title_color=E8A33D&text_color=F4EDE2&langs_count=8" alt="Most used languages" height="170">
+</p>
+
 ## Stack
 
 <p>
