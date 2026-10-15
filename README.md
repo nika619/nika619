@@ -1,9 +1,4 @@
-<a href="https://portfolio-mayankk1720.vercel.app/">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header.svg" alt="Mayank Tiwari, AI full-stack developer and motion designer. LovHack S2 winner, AMPlified national finalist." width="100%">
-  </picture>
-</a>
+<a href="https://portfolio-mayankk1720.vercel.app/"><img src="assets/motion/hero.svg" alt="Mayank Tiwari, AI full-stack developer and motion designer. LovHack S2 winner, AMPlified national finalist #6. Available for work." width="100%"></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=E8A33D&center=true&vCenter=true&width=640&height=40&lines=I+ship+AI+products+in+a+weekend%2C+then+make+them+solid.;LovHack+S2+winner+%C2%B7+AMPlified+national+finalist+%28%236%29;React+%C2%B7+Three.js+%C2%B7+GSAP+%C2%B7+Rive+%C2%B7+Python+%C2%B7+FastAPI;Open+to+freelance+and+contract+work." alt="I ship AI products in a weekend, then make them solid. LovHack S2 winner, AMPlified national finalist (#6). Open to freelance and contract work.">
@@ -14,16 +9,7 @@
   <a href="https://portfolio-mayankk1720.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-F4EDE2?style=for-the-badge&labelColor=16130F" alt="Portfolio"></a>
 </p>
 
-I turn ideas into working products, fast. Give me a problem and a deadline and you get a deployed app, clean source code and an interface people remember. Most of what's below was designed, built and shipped in a single hackathon weekend.
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><h3>🏆 Winner</h3><sub>LovHack Season 2<br>with PARITY</sub></td>
-<td align="center" width="25%"><h3>#6 National</h3><sub>Finalist, AMPlified S1<br>with Career PathFinder</sub></td>
-<td align="center" width="25%"><h3>14+ shipped</h3><sub>AI products, games<br>and 3D sites</sub></td>
-<td align="center" width="25%"><h3>CI-tested</h3><sub>Flagship repos build<br>green on every push</sub></td>
-</tr>
-</table>
+<img src="assets/motion/proof.svg" alt="Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push." width="100%">
 
 ## About me
 
@@ -32,6 +18,8 @@ I turn ideas into working products, fast. Give me a problem and a deadline and y
 - 🥈 **Rank #6 national finalist, AMPlified Season 1** with [Career PathFinder](https://github.com/nika619/Career-pathfinder-nika619)
 - 🔭 Building AI products, Rive/SVG motion and 3D web experiences, and taking freelance work on [Contra](https://contra.com/mayank_tiwari_a4vkcjsh)
 - 💬 Ask me about LLM features you can trust in production, scroll-driven 3D sites, or Rive state machines
+
+<img src="assets/motion/terminal.svg" alt="Terminal: whoami, Mayank Tiwari, AI full-stack developer and motion designer in Lucknow. Now building client work on Contra, Rive and SVG motion, AI agents. Hire at contra.com/mayank_tiwari_a4vkcjsh." width="100%">
 
 ## What I can build for you
 
