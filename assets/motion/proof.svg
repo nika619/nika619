@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push.">
+<title>Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push.</title>
+<style>
+
+.card { fill: #16130F; stroke: #2E271F; stroke-width: 1.5; }
+.edge { fill: none; stroke: #E8A33D; stroke-width: 1.5; stroke-dasharray: 120 900; stroke-dashoffset: 0; opacity: .8; animation: edge 6s linear infinite; }
+.tile { opacity: 0; animation: up .9s cubic-bezier(.22,1,.36,1) forwards; }
+.big { font: 800 34px 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #F4EDE2; letter-spacing: -.5px; }
+.lab { font: 600 16px 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #E8A33D; }
+.sub { font: 400 13px 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #8C8173; }
+.track { fill: none; stroke: #3A3128; stroke-width: 5; }
+.arc { fill: none; stroke: #E8A33D; stroke-width: 5; stroke-linecap: round; stroke-dasharray: 138; stroke-dashoffset: 138; animation: arc 1.6s cubic-bezier(.22,1,.36,1) forwards; }
+.bar { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow 1s cubic-bezier(.34,1.56,.64,1) forwards; }
+.tick { fill: none; stroke: #7BC47F; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 40; stroke-dashoffset: 40; animation: arc .9s cubic-bezier(.22,1,.36,1) forwards; }
+.bob { transform-box: fill-box; transform-origin: center bottom; animation: bob 3s ease-in-out infinite; }
+.twinkle { transform-box: fill-box; transform-origin: center; animation: twinkle 2.4s ease-in-out infinite; }
+@keyframes up { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+@keyframes edge { to { stroke-dashoffset: -1020; } }
+@keyframes arc { to { stroke-dashoffset: 26; } }
+.tick { animation-name: tick; }
+@keyframes tick { to { stroke-dashoffset: 0; } }
+@keyframes grow { to { transform: scaleY(1); } }
+@keyframes bob { 0%, 100% { transform: translateY(0) rotate(0); } 50% { transform: translateY(-4px) rotate(-3deg); } }
+@keyframes twinkle { 0%, 100% { transform: scale(.4); opacity: .2; } 50% { transform: scale(1.2); opacity: 1; } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; }
+}
+</style>
+
+<g class="tile" style="animation-delay:0.00s">
+  <rect x="1" y="10" width="280" height="170" rx="18" class="card"/>
+  <rect x="1" y="10" width="280" height="170" rx="18" class="edge" style="animation-delay:1.00s"/>
+  <g class="bob" style="animation-delay:0.00s"><path d="M38 77h28v10a14 14 0 0 1-28 0z" fill="#E8A33D"/><rect x="48" y="99" width="8" height="8" fill="#B97A22"/><rect x="41" y="107" width="22" height="5" rx="2" fill="#E8A33D"/><path d="M38 81h-7a7 7 0 0 0 7 9M66 81h7a7 7 0 0 1-7 9" stroke="#E8A33D" stroke-width="3" fill="none"/></g><circle cx="68" cy="75" r="2.5" fill="#F4EDE2" class="twinkle" style="animation-delay:1.00s"/>
+  <text x="96" y="98" class="big">WINNER</text>
+  <text x="96" y="126" class="lab">LovHack Season 2</text>
+  <text x="96" y="148" class="sub">with PARITY</text>
+</g>
+<g class="tile" style="animation-delay:0.15s">
+  <rect x="307" y="10" width="280" height="170" rx="18" class="card"/>
+  <rect x="307" y="10" width="280" height="170" rx="18" class="edge" style="animation-delay:1.15s"/>
+  <circle cx="358" cy="95" r="22" class="track"/><circle cx="358" cy="95" r="22" class="arc" style="animation-delay:0.65s" transform="rotate(-90 358 95)"/>
+  <text x="402" y="98" class="big">#6</text>
+  <text x="402" y="126" class="lab">National finalist</text>
+  <text x="402" y="148" class="sub">AMPlified Season 1</text>
+</g>
+<g class="tile" style="animation-delay:0.30s">
+  <rect x="613" y="10" width="280" height="170" rx="18" class="card"/>
+  <rect x="613" y="10" width="280" height="170" rx="18" class="edge" style="animation-delay:1.30s"/>
+  <rect x="644" y="99" width="8" height="14" rx="2" fill="#E8A33D" class="bar" style="animation-delay:0.70s"/><rect x="655" y="89" width="8" height="24" rx="2" fill="#E8A33D" class="bar" style="animation-delay:0.82s"/><rect x="666" y="95" width="8" height="18" rx="2" fill="#E8A33D" class="bar" style="animation-delay:0.94s"/><rect x="677" y="79" width="8" height="34" rx="2" fill="#E8A33D" class="bar" style="animation-delay:1.06s"/>
+  <text x="708" y="98" class="big">14+</text>
+  <text x="708" y="126" class="lab">Products shipped</text>
+  <text x="708" y="148" class="sub">AI apps · games · 3D sites</text>
+</g>
+<g class="tile" style="animation-delay:0.45s">
+  <rect x="919" y="10" width="280" height="170" rx="18" class="card"/>
+  <rect x="919" y="10" width="280" height="170" rx="18" class="edge" style="animation-delay:1.45s"/>
+  <circle cx="970" cy="95" r="22" fill="none" stroke="#7BC47F" stroke-width="3" opacity=".35"/><path d="M960 95l7 7 13-14" class="tick" style="animation-delay:1.05s"/>
+  <text x="1014" y="98" class="big">CI ✓</text>
+  <text x="1014" y="126" class="lab">Green builds</text>
+  <text x="1014" y="148" class="sub">on every push</text>
+</g>
+</svg>
