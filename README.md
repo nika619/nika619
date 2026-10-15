@@ -86,3 +86,26 @@ An MCP server that gives AI assistants real-time sepsis risk intelligence from v
 | [ELITE Agent](https://github.com/nika619/elite-agent) | Fully local autonomous agent with a plugin system, CLI and web UI | Python, Ollama, DeepSeek-R1 |
 | [EMBERWICK](https://emberwick1.netlify.app/street.html) ↗ | Browser ghost story where a Rive HUD is driven live by the game state | Three.js, Rive, WGSL |
 | [MOSAIC](https://mosaic-708.created.app/) ↗ | Five inputs in, a full brand identity kit out in 90 seconds | AI workflow |
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,threejs,tailwind,vite,nodejs,express&theme=dark" alt="Frontend and Node stack"><br>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sklearn,gcp,vercel,netlify,githubactions,git&theme=dark" alt="Python, cloud and tooling">
+</p>
+
+Motion and 3D: **GSAP · ScrollTrigger · Lenis · React Three Fiber · Rive · SVGator · WGSL shaders**<br>
+AI: **Gemini · Claude · MCP servers · Ollama · scikit-learn**
+
+## How I work
+
+- **Ship first, then polish.** You see a working build early, not a slide deck.
+- **Grounded AI.** I design features so the model's output can be checked, logged and explained.
+- **Motion with a job.** Animation has to guide attention or explain something, or it doesn't go in.
+- **Clean handover.** Deployed app, readable source, a README like the ones above, and a short walkthrough.
+
+## Let's build something
+
+Have an idea, a deadline, or a product that needs to feel alive? **[Message me on Contra](https://contra.com/mayank_tiwari_a4vkcjsh)** and I'll reply with a plan and timeline.
+
+<p align="center"><sub>Lucknow, India · working with teams worldwide</sub></p>
