@@ -89,14 +89,13 @@ I turn ideas into working products, fast. Give me a problem and a deadline and y
 ## More builds
 
 <details>
-<summary><b>12 more projects</b>: games, security tools, local AI agents, motion templates</summary>
+<summary><b>11 more projects</b>: games, security tools, local AI agents, motion templates</summary>
 
 | Project | What it is | Stack |
 |---|---|---|
 | [Evident](https://github.com/nika619/Evident--the-ultimate-help-) | Career intelligence grounded in your actual code: turns what you built into resume claims you can prove (RevenueCat Shipathon 2026) | React Native, TypeScript, Zustand, RevenueCat |
 | [SepsisGuard AI](https://github.com/nika619/SepsisGuard-AI-Real-Time-Sepsis-Intelligence-MCP) | MCP server giving AI assistants real-time sepsis risk intelligence from vitals, labs and nursing notes | Python, Model Context Protocol |
 | [PRAGMA](https://github.com/nika619/PRAGMA) | Cyber threat intelligence console with a live 3D globe, AI analysis of IPs, URLs and hashes, and MITRE ATT&CK mapping | Next.js, React Three Fiber, D3, Gemini |
-| [ECOOPS](https://github.com/nika619/ecoops) | Cuts wasted CI/CD compute by skipping pipeline jobs that add no value for a given commit | Python, Flask, GitLab CI, Gemini |
 | [The Silent Protocol](https://github.com/nika619/The-Silent-Protocol.) | Systemic narrative game: you are the city's optimisation AI, and every policy has a human cost | Three.js, GSAP, Vite |
 | [VIGIL](https://github.com/nika619/VIGIL-Verify-Impairment.-Guard-Innocent-Lives.) | Pre-drive wellness check that briefs the driver before they get behind the wheel (UN SDG 3.6) | JavaScript, Express, Gemini 2.5 Flash |
 | [F.O.R.G.E.](https://github.com/nika619/FORGE.) | Gamified productivity engine that turns goals into quests, XP and levels | React, TypeScript, Framer Motion, Zustand |
