@@ -88,6 +88,9 @@ I turn ideas into working products, fast. Give me a problem and a deadline and y
 
 ## More builds
 
+<details>
+<summary><b>12 more projects</b>: games, security tools, local AI agents, motion templates</summary>
+
 | Project | What it is | Stack |
 |---|---|---|
 | [Evident](https://github.com/nika619/Evident--the-ultimate-help-) | Career intelligence grounded in your actual code: turns what you built into resume claims you can prove (RevenueCat Shipathon 2026) | React Native, TypeScript, Zustand, RevenueCat |
@@ -102,6 +105,8 @@ I turn ideas into working products, fast. Give me a problem and a deadline and y
 | [ELITE Agent](https://github.com/nika619/elite-agent) | Fully local autonomous agent with a plugin system, CLI and web UI | Python, Ollama, DeepSeek-R1 |
 | [EMBERWICK](https://emberwick1.netlify.app/street.html) ↗ | Browser ghost story where a Rive HUD is driven live by the game state | Three.js, Rive, WGSL |
 | [MOSAIC](https://mosaic-708.created.app/) ↗ | Five inputs in, a full brand identity kit out in 90 seconds | AI workflow |
+
+</details>
 
 ## Stack
 
