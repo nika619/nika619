@@ -71,3 +71,18 @@ An MCP server that gives AI assistants real-time sepsis risk intelligence from v
 </td>
 </tr>
 </table>
+
+## More builds
+
+| Project | What it is | Stack |
+|---|---|---|
+| [PRAGMA](https://github.com/nika619/PRAGMA) | Cyber threat intelligence console with a live 3D globe, AI analysis of IPs, URLs and hashes, and MITRE ATT&CK mapping | Next.js, React Three Fiber, D3, Gemini |
+| [ECOOPS](https://github.com/nika619/ecoops) | Cuts wasted CI/CD compute by skipping pipeline jobs that add no value for a given commit | Python, Flask, GitLab CI, Gemini |
+| [The Silent Protocol](https://github.com/nika619/The-Silent-Protocol.) | Systemic narrative game: you are the city's optimisation AI, and every policy has a human cost | Three.js, GSAP, Vite |
+| [VIGIL](https://github.com/nika619/VIGIL-Verify-Impairment.-Guard-Innocent-Lives.) | Pre-drive wellness check that briefs the driver before they get behind the wheel (UN SDG 3.6) | JavaScript, Express, Gemini 2.5 Flash |
+| [F.O.R.G.E.](https://github.com/nika619/FORGE.) | Gamified productivity engine that turns goals into quests, XP and levels | React, TypeScript, Framer Motion, Zustand |
+| [Market Day](https://github.com/nika619/conjure-svgator) | 15-second animated ad template: swap 5 lines of text, 2 images and 1 colour | SVGator, SVG |
+| [NIDS](https://github.com/nika619/nids-project) | Network intrusion detection with live packet capture and a real-time dashboard | scikit-learn, SMOTE, Flask, Scapy |
+| [ELITE Agent](https://github.com/nika619/elite-agent) | Fully local autonomous agent with a plugin system, CLI and web UI | Python, Ollama, DeepSeek-R1 |
+| [EMBERWICK](https://emberwick1.netlify.app/street.html) ↗ | Browser ghost story where a Rive HUD is driven live by the game state | Three.js, Rive, WGSL |
+| [MOSAIC](https://mosaic-708.created.app/) ↗ | Five inputs in, a full brand identity kit out in 90 seconds | AI workflow |
