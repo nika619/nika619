@@ -1,7 +1,7 @@
-<a href="https://portfolio-mayankk1720.vercel.app/"><img src="assets/motion/hero.svg" alt="Mayank Tiwari, AI full-stack developer and motion designer. LovHack S2 winner, AMPlified national finalist #6. Available for work." width="100%"></a>
+<a href="https://portfolio-mayankk1720.vercel.app/"><img src="assets/motion/hero.svg" alt="Mayank Tiwari, AI full-stack developer and motion designer. LovHack S2 winner, HCLTech AMPlified Season 1 Top 25. Available for work." width="100%"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=E8A33D&center=true&vCenter=true&width=640&height=40&lines=I+ship+AI+products+in+a+weekend%2C+then+make+them+solid.;LovHack+S2+winner+%C2%B7+AMPlified+national+finalist+%28%236%29;React+%C2%B7+Three.js+%C2%B7+GSAP+%C2%B7+Rive+%C2%B7+Python+%C2%B7+FastAPI;Open+to+freelance+and+contract+work." alt="I ship AI products in a weekend, then make them solid. LovHack S2 winner, AMPlified national finalist (#6). Open to freelance and contract work.">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=E8A33D&center=true&vCenter=true&width=640&height=40&lines=I+ship+AI+products+in+a+weekend%2C+then+make+them+solid.;LovHack+S2+winner+%C2%B7+HCLTech+AMPlified+S1+Top+25;React+%C2%B7+Three.js+%C2%B7+GSAP+%C2%B7+Rive+%C2%B7+Python+%C2%B7+FastAPI;Open+to+freelance+and+contract+work." alt="I ship AI products in a weekend, then make them solid. LovHack S2 winner, HCLTech AMPlified S1 Top 25. Open to freelance and contract work.">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://portfolio-mayankk1720.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-F4EDE2?style=for-the-badge&labelColor=16130F" alt="Portfolio"></a>
 </p>
 
-<img src="assets/motion/proof.svg" alt="Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push." width="100%">
+<img src="assets/motion/proof.svg" alt="Winner of LovHack Season 2 with PARITY. Top 25 team at HCLTech AMPlified Season 1, Round 2. 14 plus products shipped. Green CI builds on every push." width="100%">
 
 <img src="assets/motion/divider.svg" alt="" width="100%">
 
