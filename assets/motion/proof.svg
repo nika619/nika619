@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push.">
-<title>Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Winner of LovHack Season 2 with PARITY. Top 25 team at HCLTech AMPlified Season 1, Round 2. 14 plus products shipped. Green CI builds on every push.">
+<title>Winner of LovHack Season 2 with PARITY. Top 25 team at HCLTech AMPlified Season 1, Round 2. 14 plus products shipped. Green CI builds on every push.</title>
 <style>
 
 .card { fill: #16130F; stroke: #2E271F; stroke-width: 1.5; }
@@ -40,9 +40,9 @@
   <rect x="307" y="10" width="280" height="170" rx="18" class="card"/>
   <rect x="307" y="10" width="280" height="170" rx="18" class="edge" style="animation-delay:1.15s"/>
   <circle cx="358" cy="95" r="22" class="track"/><circle cx="358" cy="95" r="22" class="arc" style="animation-delay:0.65s" transform="rotate(-90 358 95)"/>
-  <text x="402" y="98" class="big">#6</text>
-  <text x="402" y="126" class="lab">National finalist</text>
-  <text x="402" y="148" class="sub">AMPlified Season 1</text>
+  <text x="402" y="98" class="big">TOP 25</text>
+  <text x="402" y="126" class="lab">HCLTech AMPlified</text>
+  <text x="402" y="148" class="sub">Season 1 · Round 2</text>
 </g>
 <g class="tile" style="animation-delay:0.30s">
   <rect x="613" y="10" width="280" height="170" rx="18" class="card"/>
