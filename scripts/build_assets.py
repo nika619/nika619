@@ -127,7 +127,7 @@ def hero() -> str:
   <circle cx="980" cy="170" r="22" fill="none" stroke="{AMBER}" stroke-width="2" class="ping"/>
   {orbit_nodes}
 
-  <text x="64" y="74" class="mono slide">LUCKNOW, INDIA · LOVHACK S2 WINNER · AMPLIFIED NATIONAL FINALIST #6</text>
+  <text x="64" y="74" class="mono slide">LUCKNOW, INDIA · LOVHACK S2 WINNER · HCLTECH AMPLIFIED TOP 25</text>
   <text x="58" y="168" class="name">Mayank Tiwari</text>
   {cover(54, 92, 660, 96, 0.35, 1.1)}
   <rect x="64" y="190" width="560" height="3" rx="1.5" fill="{AMBER}" class="underline"/>
@@ -184,7 +184,7 @@ def hero() -> str:
 @keyframes chipIn {{ from {{ opacity: 0; transform: translateY(10px) scale(.92); }} to {{ opacity: 1; transform: none; }} }}
 @keyframes pulse {{ 0%, 100% {{ transform: scale(1); opacity: 1; }} 50% {{ transform: scale(1.7); opacity: .35; }} }}
 """
-    return svg(W, H, body, style, "Mayank Tiwari, AI full-stack developer and motion designer. LovHack S2 winner, AMPlified national finalist #6. Available for work.")
+    return svg(W, H, body, style, "Mayank Tiwari, AI full-stack developer and motion designer. LovHack S2 winner, HCLTech AMPlified Season 1 Top 25. Available for work.")
 
 
 # ── Proof tiles ───────────────────────────────────────────────────────
@@ -192,7 +192,7 @@ def proof() -> str:
     W, H = 1200, 190
     tiles = [
         ("WINNER", "LovHack Season 2", "with PARITY", "trophy"),
-        ("#6", "National finalist", "AMPlified Season 1", "ring"),
+        ("TOP 25", "HCLTech AMPlified", "Season 1 · Round 2", "ring"),
         ("14+", "Products shipped", "AI apps · games · 3D sites", "bars"),
         ("CI ✓", "Green builds", "on every push", "check"),
     ]
@@ -249,13 +249,13 @@ def proof() -> str:
 @keyframes bob {{ 0%, 100% {{ transform: translateY(0) rotate(0); }} 50% {{ transform: translateY(-4px) rotate(-3deg); }} }}
 @keyframes twinkle {{ 0%, 100% {{ transform: scale(.4); opacity: .2; }} 50% {{ transform: scale(1.2); opacity: 1; }} }}
 """
-    return svg(W, H, "".join(parts), style, "Winner of LovHack Season 2 with PARITY. Rank 6 national finalist at AMPlified Season 1. 14 plus products shipped. Green CI builds on every push.")
+    return svg(W, H, "".join(parts), style, "Winner of LovHack Season 2 with PARITY. Top 25 team at HCLTech AMPlified Season 1, Round 2. 14 plus products shipped. Green CI builds on every push.")
 
 
 # ── Project cards ─────────────────────────────────────────────────────
 CARDS = [
     ("parity", "PARITY", "AI voice debate arena · 5 rounds · AI judge", "WINNER · LOVHACK S2", ["Gemini", "Web Speech", "WebSockets"]),
-    ("career-pathfinder", "Career PathFinder", "Explainable AI learning-path engine", "#6 NATIONAL FINALIST", ["FastAPI", "scikit-learn", "Gemini"]),
+    ("career-pathfinder", "Career PathFinder", "Explainable AI learning-path engine", "TOP 25 · HCLTECH AMPLIFIED", ["FastAPI", "scikit-learn", "Gemini"]),
     ("backstop", "BackStop", "Policy-gated AI payment recovery for Razorpay", "RAZORPAY BUILDATHON", ["FastAPI", "React 19", "pytest"]),
     ("aevra", "AÉVRA", "Cinematic watch-restoration site + AI intake", "LIVE · LOVABLE HACKATHON", ["React", "GSAP", "R3F"]),
     ("snap", "S.N.A.P.", "Meeting transcripts → decisions and action items", "LIVE ON GOOGLE CLOUD", ["React", "Three.js", "Gemini"]),
